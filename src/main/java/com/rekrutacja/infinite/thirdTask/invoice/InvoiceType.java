@@ -1,0 +1,13 @@
+package com.rekrutacja.infinite.thirdTask.invoice;
+
+public enum InvoiceType {
+    FAKTURA_VAT_PODSTAWOWA,
+    FAKTURA_ZALICZKOWA,
+    FAKTURA_UPROSZCZONA,
+    REFAKTUROWANIE,
+    SAMOFAKTUROWANIE,
+    FAKTURA_VAT_MARZA,
+    FAKTURA_VAT_RR,
+    PRO_FORMA,
+    FAKTURA_ELEKTRONICZNA
+}
